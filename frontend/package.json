@@ -1,0 +1,10 @@
+{
+  "name":"stock-heatmap",
+  "private":true,
+  "dependencies":{
+    "react":"^18.0.0",
+    "react-dom":"^18.0.0",
+    "d3":"^7.0.0"
+  },
+  "scripts":{ "start":"serve -s build || react-scripts start" }
+}
